@@ -6,6 +6,9 @@
     color: #ddd;
     
     }
+    .navbar img{
+        width: 80px;
+    }
     .navbar ul{
         display: flex;
         gap: 40px;
